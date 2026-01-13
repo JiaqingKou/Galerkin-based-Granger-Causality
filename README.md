@@ -3,7 +3,7 @@
 This repository provides MATLAB implementations of **Galerkin-based Granger Causality (GGC)**, a modified Granger causality framework tailored to the mathematical structure of Galerkin-type reduced-order models (ROMs). GGC enables quantitative causal analysis among modal coefficients in complex fluid flows.
 
 ## Introduction 
-This code accompanies the research paper: **Wang, Y., Kou, J., Noack, B.R. et al. (under review) Causal analysis of a turbulent shear flow model**. 
+This code accompanies the research paper: **Wang, Y., Kou, J., Noack, B.R., Zhang W. (under review) Causal analysis of a turbulent shear flow model**. 
 In this work, we proposed a modified Granger causality method, **GGC**, specifically designed for causal inference on Galerkin-type and data-driven ROMs of complex fluid flows. GGC takes time-resolved modal coefficients (e.g., from Galerkin projection or POD) as input and outputs a causal map that reveals directional cause-and-effect between modes. It was validated on two benchmark flows: a turbulent shear flow model (Moehlis et al. 2004)  and a lid-driven cavity flow (Arbabi & Mezić 2017). For detailed descriptions and results, please refer to the research paper.
 
 ## Getting started 
